@@ -23,7 +23,7 @@
 * The participant with the most points on the 01.01.2022 will win
 * If one of the participants will collect all 50 stars before the end of the challenge, he/she will win automatically 
 
-## Best newcomer prize 
+### Best newcomer prize 
 
 * The participant with the most points on the 01.01.2022 will win
 * All prior winner are excluded from this prize

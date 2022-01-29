@@ -30,4 +30,4 @@
 
 # Leaderboard
 
-Open the [leaderboard](leaderboard.md) to see the final score.
+Open the [leaderboard](https://github.com/VolkmarR/AdventOfCode2021Challenge/blob/master/Leaderboard.md) to see the final score.

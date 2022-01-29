@@ -9,7 +9,7 @@
 |--|--|--|--|--|
 | Kfimenenpah (Philipp Priller) | 22 | 0 | c# |  [Repo](https://github.com/SubNet32/AdventOfCode2021) |
 | Holger Steinmair | 22 | 0 | x# |  [Repo](https://github.com/S1one88/AoC2021XSharp) |
-| tortagel (Michael Reisigl) | 19 | 3 | ? | python [Repo](https://github.com/tortagel/advent-of-code-2021) |
+| tortagel (Michael Reisigl) | 19 | 3 | python | [Repo](https://github.com/tortagel/advent-of-code-2021) |
 | Volkmar Rigo | 17 | 02| c# |  [Repo](https://github.com/VolkmarR/AdventOfCode2021) |
 | Arne Ortlinghaus | 17 | 0 | rx-macro |  [Repo](https://github.com/ArneOrtlinghaus/AdventofCode2021) |
 | redek91 | 14 | 0 | ? |   |
@@ -22,7 +22,7 @@
 | AlexSig26 | 6 | 2 | x# |  [Repo](https://github.com/AlexSig26/AdventOfCode21XSharp) |
 | Tadas-Infominds | 6 | 0 | ? |   |
 | Peter Ferdigg | 4 | 3 | ? |   |
-| Daniele Benetti | 4 | 1 | Excel |   |
+| Daniele Benetti | 4 | 1 | Excel | [Download](https://github.com/VolkmarR/AdventOfCode2021Challenge/blob/master/Results/DanieleBenettiAdventOfCode.zip) |
 | jogi23 | 3 | 1 | ? |   |
 | VikingWuz | 2 | 1 | ? |   |
 | Mathias Sölva | 2 | 1 | ? |   |
